@@ -1,1 +1,1 @@
-"C:\Users\Farouha\Downloads\Video Project 1.mp4"
+<video src="Video%20Project%201.mp4" controls width="100%"></video>
